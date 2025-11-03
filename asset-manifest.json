@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Nokhablab/static/css/main.6a2b3f8d.css",
+    "main.js": "/Nokhablab/static/js/main.e5141a6e.js",
+    "static/media/LLM&chips.png": "/Nokhablab/static/media/LLM&chips.1bcf52b8e15523505e88.png",
+    "static/media/SC.jpg": "/Nokhablab/static/media/SC.8c9bf5eebe85fb8adb4d.jpg",
+    "static/media/ADS-removebg-preview.png": "/Nokhablab/static/media/ADS-removebg-preview.f901ae571b2885da33b3.png",
+    "static/media/SDU-removebg-preview.png": "/Nokhablab/static/media/SDU-removebg-preview.c839115916c68b9aff38.png",
+    "static/media/Muhammad.jpg": "/Nokhablab/static/media/Muhammad.eb11ce6ae73223499214.jpg",
+    "index.html": "/Nokhablab/index.html",
+    "main.6a2b3f8d.css.map": "/Nokhablab/static/css/main.6a2b3f8d.css.map",
+    "main.e5141a6e.js.map": "/Nokhablab/static/js/main.e5141a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2b3f8d.css",
+    "static/js/main.e5141a6e.js"
+  ]
+}
